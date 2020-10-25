@@ -1,0 +1,11 @@
+<package>
+  <name>process-bag-package</name>
+  <version>0.1.0</version>
+  <description>
+  For exercise 20 of Book Hands-On Robotics Development Using Duckietown
+  </description>
+  <maintainer email="jonathan.n.peel@gmail.com">Jonathan Peel</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
